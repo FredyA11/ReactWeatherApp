@@ -1,0 +1,12 @@
+.Image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.Title{
+    margin-top: 3%;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
