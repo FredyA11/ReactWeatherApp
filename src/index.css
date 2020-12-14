@@ -1,0 +1,14 @@
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+  height: 100%;
+  margin: 0;
+  background-image: url("./images/warm.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
